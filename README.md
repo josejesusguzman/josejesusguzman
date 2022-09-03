@@ -9,9 +9,9 @@
 
 -------------
 
-- 🧑‍💻 Visita el repositoriode los cursos de programación:
+- 🧑‍💻 Visita el repositorio de los cursos de programación:
 
-- [Fundamentos de programación desde cero](https://github.com/josejesusguzman/fundamentos.-programacion)
+[Fundamentos de programación desde cero](https://github.com/josejesusguzman/fundamentos.-programacion)
 
 --------
 
