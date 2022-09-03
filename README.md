@@ -9,9 +9,20 @@
 
 -------------
 
-- 🧑‍💻 Visita el repositorio de los cursos de programación:
+- 🧑‍💻 Give a look to the repository of programming courses:
+- 🧑‍💻 Revisa el repositorio de los cursos de programación:
 
-[Fundamentos de programación desde cero](https://github.com/josejesusguzman/fundamentos.-programacion)
+   - [Fundamentos de programación desde cero](https://github.com/josejesusguzman/fundamentos.-programacion)
+
+--------
+- 📄 Check my cheat sheets made with love 💖
+- 📄 Revisa mis acordeones hechos con amor 💖
+
+  - [Microsoft Azure Fundamentals AZ-900](https://github.com/josejesusguzman/acordeon-az900-innovaccion)
+  - [Microsoft Azure Security Technologies AZ-500](https://github.com/josejesusguzman/acordeon-az500-innoovaccion)
+  
+--------
+
 
 --------
 
