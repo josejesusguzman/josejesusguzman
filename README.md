@@ -9,13 +9,9 @@
 
 -------------
 
-- 🧑‍💻 Visita los repositorios de los cursos de programación:
+- 🧑‍💻 Visita el repositoriode los cursos de programación:
 
-| Día | Hora | Curso |
-|-----|------|-------|
-| Lunes | 9:00pm | Curso de Python |
-| Miércoles | 9:00pm  | Curso de Jav, Kotlin & Moviles |
-| Viernes | 9:00pm  | Curso de JavaScript |
+- [Fundamentos de programación desde cero](https://github.com/josejesusguzman/fundamentos.-programacion)
 
 --------
 
