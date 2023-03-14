@@ -63,4 +63,16 @@
 
 -------------
 
+## Todos mis cursos, en estas plataformas, al mismo tiempo
+
+| Cursos | Plataforma | ¿Costo? |
+|--------|------------|---------|
+| [Fundamentos de programación en Python](https://ucamp.io/curso-python/) | UCamp | Con costo |
+| [Bootcamp en Ciencia de datos e Inteligencia Artificial](https://ucamp.io/curso-ciencia-de-datos/) | UCamp | Con costo |
+| Ciberseguridad y fundamentos de hacking ético | [Suscripción en Twitch o Miembro en YouTube](https://www.twitch.tv/brujeriatech) | Con costo |
+| Curso de programación desde cero, en español y gratis | [Twitch(grabaciones en YouTube)](https://www.twitch.tv/brujeriatech) | Gratis
+
+
+-------------
+
 <a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Freepik - Flaticon</a>
