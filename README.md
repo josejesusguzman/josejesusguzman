@@ -57,6 +57,7 @@ acerca_de_mi = {
 }
 
 ```
+- ⚡ Fun fact **I manage a verified TikTok account with over 1.5M followers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
